@@ -11,4 +11,4 @@ This simple web app demonstrates how to change the background color of a webpage
 ## 🖼️ Demo
 ![Demo Screenshot]
 
-<img src="color-switcher/colorchange.png">
+<img src="color-switcher/colorchanges.png">
